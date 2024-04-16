@@ -1,2 +1,1 @@
-pnpm i && pnpm start
-pnpm i
+pnpm i && pnpm i  pnpm start
